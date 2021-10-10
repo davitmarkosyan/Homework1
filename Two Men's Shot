@@ -1,0 +1,5 @@
+number_of_cans=int(input())
+shot_2_missed=int(input())-1
+shot_1_missed=int(input())-1
+print(shot_2_missed)
+print(shot_1_missed)
