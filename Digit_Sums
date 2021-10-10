@@ -1,0 +1,5 @@
+n=int(input())
+first_digit=n%10
+second_digit=n%100//10
+third_digit =n%100%10
+print((first_digit+second_digit+third_digit))
